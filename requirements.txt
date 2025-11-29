@@ -1,0 +1,5 @@
+aiohttp>=3.9.0
+
+GLPI_URL = "http://help.it-teacher.pro"
+APP_TOKEN = "FOnIW0T8On2WEx5Ud9VKgHmvnk82kMaVKOnJxrS9" 
+USER_TOKEN = "h4umAudep3iKzMOeennsR3y45h34O5sfUPkh0Wbh"

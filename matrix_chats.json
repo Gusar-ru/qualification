@@ -1,0 +1,15 @@
+[
+  {
+    "room_id": "!PqbXNLyrRgkvltwjhg:matrix.it-teacher.pro",
+    "name": "Без названия",
+    "canonical_alias": "Нет алиаса",
+    "member_count": 2,
+    "is_encrypted": false,
+    "topic": "Нет описания",
+    "last_message": "Нет сообщений",
+    "members": [
+      "bot",
+      "Ilya"
+    ]
+  }
+]
